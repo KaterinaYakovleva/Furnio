@@ -1,0 +1,50 @@
+.container__advert {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+}
+.img__back {
+  width: 100%;
+  z-index: 1;
+}
+
+.description {
+  top: 35%;
+  right: 10%;
+  z-index: 2;
+  background-color: #fff3e3;
+  position: absolute;
+  padding: 60px 40px;
+  max-width: 500px;
+}
+
+.advert__title2 {
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.advert__title1 {
+  color: #b88e2f;
+  font-size: 52px;
+  line-height: 1.1;
+  font-weight: 700;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.advert__desc {
+  font-size: 18px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.button__buy {
+  background-color: #b88e2f;
+  color: #ffffff;
+  border: none;
+  padding: 25px 72px;
+  margin: 0;
+  font-weight: 500;
+}
